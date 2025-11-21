@@ -1,69 +1,85 @@
-DeepSeek
-华为
-HarmonyOS
-
-比亚迪
-大疆
 
 马斯克
+
 Elon Musk
 
 微软
+
 Microsoft
 
 英伟达
+
 NVIDIA
+
 黄仁勋
+
 AMD
 
 谷歌
+
 google
+
 gemini
-deepmind
 
 chatgpt
+
 openai
+
 sora
+
 Oracle
+
 claude
+
 Anthropic
 
 苹果
+
 IOS
 
-标普500
-NASDAQ
-黄金
 财经
+
 社会科学
+
 科学
+
+学术圈/学术/研究/前沿
+
 Social Science
+
 Cell
+
 Science
+
 Nature
+
 学术
+
 博士
+
 留学
+
 全奖
+
 CSC
 
 ai
+
 人工智能
 
-自动驾驶
-机器人
-
 中国
+
 中国特色
+
 美国
+
 日本
+
 韩国
 
 芯片
-光刻机
+
 科技
+
 核能
 
-新质生产力
-航空
-低空经济
